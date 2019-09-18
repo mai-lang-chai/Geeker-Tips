@@ -1,0 +1,8 @@
+1、WDigest:
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SecurityProviders\WDigest
+Negotiate --> 0
+UseLogonCredential --> 0
+
+2、lsass保护
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
+新建DWORD(32位)(值D) RunAsPPL --> 1
