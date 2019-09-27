@@ -1,0 +1,10 @@
+CHrome：
+	Ctrl+T	新建标签
+	Ctrl+W	关闭当前标签
+	Ctrl+TAB	切换标签
+	ALT+D	光标跳到输入口
+文本编辑：
+	home	光标跳到行首
+	end		光标跳到行尾
+	Ctrl+Shirt+home	光标向左全选
+	Ctrl+Shirt+end	光标向右全选
