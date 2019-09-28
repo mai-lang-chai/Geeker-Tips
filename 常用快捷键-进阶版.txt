@@ -1,12 +1,12 @@
 CHrome：
-	Ctrl+T	新建标签页
-	Ctrl+W	关闭当前标签页
+	Ctrl+T		新建标签页
+	Ctrl+W		关闭当前标签页
 	Ctrl+TAB	切换标签页
-	ALT+D	光标跳到搜索口
+	ALT+D		光标跳到搜索口	
 文本编辑：
-	home	光标跳到行首
+	home		光标跳到行首
 	end		光标跳到行尾
 	Ctrl+Shirt+home	光标向左全选
 	Ctrl+Shirt+end	光标向右全选
-	shift 区间选择，起始位置点中之后松手，按住点末尾位置点shift
+	shift 		区间选择，起始位置点中之后松手，按住点末尾位置点shift
 	ALT+H+SI	反选
