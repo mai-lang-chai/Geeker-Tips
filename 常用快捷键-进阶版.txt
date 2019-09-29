@@ -1,7 +1,8 @@
 CHrome：
 	Ctrl+T		新建标签页
 	Ctrl+W		关闭当前标签页
-	Ctrl+TAB	切换标签页
+	Ctrl+TAB	向右切换标签页
+	Ctrl+Shirt+TAB	向左切换标签页
 	ALT+D		光标跳到搜索口	
 文本编辑：
 	home		光标跳到行首
