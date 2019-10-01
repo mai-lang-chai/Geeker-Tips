@@ -11,3 +11,5 @@ CHrome：
 	Ctrl+Shirt+end	光标向右全选
 	shift 		区间选择，起始位置点中之后松手，按住点末尾位置点shift
 	ALT+H+SI	反选
+sublime：
+	Ctrl+A Ctrl+Shift+l 编辑多行行首行尾
