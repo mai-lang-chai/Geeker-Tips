@@ -10,4 +10,4 @@ WebRTC（网页即时通信，Web Real-Time Communication） WebRTC，名称源�
 ![image](PIC/暴露IP.png)  
 使用装「WebRTC Leak Prevent」扩展插件进行隐藏IP：  
 ![image](PIC/web.jpg)  
-![image](PIC/隐藏IP.jpg)  
+![image](PIC/隐藏.jpg)  
