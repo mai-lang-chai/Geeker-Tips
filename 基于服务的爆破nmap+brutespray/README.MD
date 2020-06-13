@@ -9,10 +9,10 @@ hydra
 nmap
 SNETCracker
 ```
-都需指定端口然后对应服务，接着开始爆破，对于批量IP，改了大量默认端口的爆破就显得很鸡肋，
+都需指定端口然后对应服务，接着开始爆破，对于批量IP，改了大量默认端口的爆破就显得很鸡肋
 
 ## BrutesPray ##
-![image](PIC/b.png)
+![image](PIC/b.png)  
 BrutesPray自动调用Medusa对服务进行爆破，成功的解决了这一问题，实现了基于服务的爆破  
 
 kali安装：
